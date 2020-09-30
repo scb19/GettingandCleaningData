@@ -1,4 +1,4 @@
-# GettingandCleaningData
+# Getting and Cleaning Data
 Course 3 Project
 
 
