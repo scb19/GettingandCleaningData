@@ -18,4 +18,4 @@ Course 3 Project
 - We merge the two variables subject_train and subject_test into a new variable subject_train_test
 - dataset4: add the vector columns y_train_test_label and subject_train_test to the data set X_train_test4
 - colnames(dataset4)[2] <- "subject_train_test": name the second column of dataset4
-- dataset5: from dataset4, we get the final tidy data set 
+- dataset5: from dataset4, we get the final tidy data set, creating a second, independent tidy data set with the average of each variable for each activity and each subject
